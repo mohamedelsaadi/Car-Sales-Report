@@ -14,5 +14,5 @@ Key Features of the Dashboard:
 - This dashboard is designed to provide stakeholders with critical insights and actionable data to enhance sales strategies and operational efficiency. By leveraging Power BI’s powerful analytics and visualization capabilities, we can turn raw data into meaningful information.
 
 ![Car Sales 1](https://github.com/user-attachments/assets/16df6167-e770-487e-a459-20fbbeedd21f)
-![29 08 2024_04 16 44_REC](https://github.com/user-attachments/assets/3c2fc7f4-83ba-4592-8e49-d8e8de855523)
+![29 08 2024_04 18 37_REC](https://github.com/user-attachments/assets/8b257e46-7c83-4915-9a8d-e561cf89bc28)
 
