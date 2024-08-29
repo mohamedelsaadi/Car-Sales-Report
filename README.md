@@ -15,4 +15,4 @@ Key Features of the Dashboard:
 
 ![Car Sales 1](https://github.com/user-attachments/assets/16df6167-e770-487e-a459-20fbbeedd21f)
 
-![29 08 2024_04 16 44_REC](https://github.com/user-attachments/assets/9412c352-a885-4036-b9df-ffc083474691)
+
