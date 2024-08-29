@@ -12,3 +12,5 @@ Key Features of the Dashboard:
 
 💡 Why This Dashboard Matters:
 - This dashboard is designed to provide stakeholders with critical insights and actionable data to enhance sales strategies and operational efficiency. By leveraging Power BI’s powerful analytics and visualization capabilities, we can turn raw data into meaningful information.
+
+![Car Sales 1](https://github.com/user-attachments/assets/16df6167-e770-487e-a459-20fbbeedd21f)
